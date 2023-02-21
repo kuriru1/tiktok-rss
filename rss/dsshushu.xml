@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@dsshushu</id>
+  <title>dsshushu TikTok</title>
+  <updated>2023-02-08T14:13:06+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/dsshushu.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7190019480297245979</id>
+    <title>A bit late but here is my draft</title>
+    <updated>2023-01-18T15:47:50+00:00</updated>
+    <content>A bit late but here is my draft</content>
+    <link href="https://tiktok.com/@dsshushu/video/7190019480297245979" rel="alternate"/>
+    <published>2023-01-18T15:47:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7190685165356633370</id>
+    <title>No Title</title>
+    <updated>2023-01-20T10:51:02+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7190685165356633370" rel="alternate"/>
+    <published>2023-01-20T10:51:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7191920451088551194</id>
+    <title>No Title</title>
+    <updated>2023-01-23T18:44:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7191920451088551194" rel="alternate"/>
+    <published>2023-01-23T18:44:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7195455087773289754</id>
+    <title>Clearkan 2022 draft</title>
+    <updated>2023-02-02T07:20:48+00:00</updated>
+    <content>Clearkan 2022 draft</content>
+    <link href="https://tiktok.com/@dsshushu/video/7195455087773289754" rel="alternate"/>
+    <published>2023-02-02T07:20:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7197787853097667866</id>
+    <title>2% dari kisah hidup since 2018. #terpalingberdikari </title>
+    <updated>2023-02-08T14:13:06+00:00</updated>
+    <content>2% dari kisah hidup since 2018. #terpalingberdikari </content>
+    <link href="https://tiktok.com/@dsshushu/video/7197787853097667866" rel="alternate"/>
+    <published>2023-02-08T14:13:06+00:00</published>
+  </entry>
+</feed>

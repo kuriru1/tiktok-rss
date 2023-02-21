@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@chiayeechew</id>
+  <title>chiayeechew TikTok</title>
+  <updated>2023-02-20T12:18:58+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/chiayeechew.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7188815407245987074</id>
+    <title>How I style a simple lovely dress~ #MakeNightsEpic #howtostyle #dress #simpledress #cny2022 #tiktoksingapore #tiktokmalaysia </title>
+    <updated>2023-01-15T09:55:26+00:00</updated>
+    <content>How I style a simple lovely dress~ #MakeNightsEpic #howtostyle #dress #simpledress #cny2022 #tiktoksingapore #tiktokmalaysia </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7188815407245987074" rel="alternate"/>
+    <published>2023-01-15T09:55:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7190712230168546562</id>
+    <title>Stand a chance to win a $288 Money 兔 U Angpao when you participate in this dance challenge! Xin Nian Kuai Le!!  More details here: https://umg.lnk.to/moneytou</title>
+    <updated>2023-01-20T12:36:04+00:00</updated>
+    <content>Stand a chance to win a $288 Money 兔 U Angpao when you participate in this dance challenge! Xin Nian Kuai Le!!  More details here: https://umg.lnk.to/moneytou</content>
+    <link href="https://tiktok.com/@chiayeechew/video/7190712230168546562" rel="alternate"/>
+    <published>2023-01-20T12:36:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7196590420627967233</id>
+    <title>Al’Skindict Welcome Voucher Giveaway! Get $28 off with any facial treatment and entitled to get a complimentary relaxing eye spa~  For those who are really interested you just need to comment down below👇and I will send you the voucher. *Only for 10  This </title>
+    <updated>2023-02-05T08:46:28+00:00</updated>
+    <content>Al’Skindict Welcome Voucher Giveaway! Get $28 off with any facial treatment and entitled to get a complimentary relaxing eye spa~  For those who are really interested you just need to comment down below👇and I will send you the voucher. *Only for 10  This is the best facial place that is totally worth spending money on! Her professionalism in handling the treatment is legit satisfied by many customers and not hard sell. Give it a try! Location: Crawford Lane, Singapore, 190463 IG: alskindict  #sgbestfacial #bestfacial #alskindict </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7196590420627967233" rel="alternate"/>
+    <published>2023-02-05T08:46:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7201806338492484866</id>
+    <title>Vacay vibes~ #tiktok #trending #tiktoksingapore #tiktokmalaysia #dancechallenge </title>
+    <updated>2023-02-19T10:06:53+00:00</updated>
+    <content>Vacay vibes~ #tiktok #trending #tiktoksingapore #tiktokmalaysia #dancechallenge </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7201806338492484866" rel="alternate"/>
+    <published>2023-02-19T10:06:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7202211454617963777</id>
+    <title>Might delete later 😗#tiktok #trending #tiktoksingapore #tiktokmalaysia #dancechallenge </title>
+    <updated>2023-02-20T12:18:58+00:00</updated>
+    <content>Might delete later 😗#tiktok #trending #tiktoksingapore #tiktokmalaysia #dancechallenge </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7202211454617963777" rel="alternate"/>
+    <published>2023-02-20T12:18:58+00:00</published>
+  </entry>
+</feed>
