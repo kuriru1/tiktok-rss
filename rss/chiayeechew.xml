@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-02-20T12:18:58+00:00</updated>
+  <updated>2023-02-23T08:15:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7181017410122697985</id>
-    <title>Merry Christmas Everyone!🎄🎉 Hope you guys had a great celebration with your loves one! Here’s how I usually film myself when I’m alone! #Christmas2022 #CapCut #obsbot_me #aicameramode #aicamera #selfiesticktripod #tiktoksingapore #tiktokmalaysia #dancedan</title>
-    <updated>2022-12-25T09:35:15+00:00</updated>
-    <content>Merry Christmas Everyone!🎄🎉 Hope you guys had a great celebration with your loves one! Here’s how I usually film myself when I’m alone! #Christmas2022 #CapCut #obsbot_me #aicameramode #aicamera #selfiesticktripod #tiktoksingapore #tiktokmalaysia #dancedancedance </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7181017410122697985" rel="alternate"/>
-    <published>2022-12-25T09:35:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7181333009365208322</id>
     <title>Monday isn’t blue huh~ #Christmas2022 #tiktoksingapore #tiktokmalaysia #dance #challenge </title>
@@ -91,5 +83,13 @@
     <content>Might delete later 😗#tiktok #trending #tiktoksingapore #tiktokmalaysia #dancechallenge </content>
     <link href="https://tiktok.com/@chiayeechew/video/7202211454617963777" rel="alternate"/>
     <published>2023-02-20T12:18:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7203261884454227201</id>
+    <title>Part 1 #CapCut #tiktoksingapore #trending #tiktokmalaysia #captetown #lionsheadcapetown </title>
+    <updated>2023-02-23T08:15:08+00:00</updated>
+    <content>Part 1 #CapCut #tiktoksingapore #trending #tiktokmalaysia #captetown #lionsheadcapetown </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7203261884454227201" rel="alternate"/>
+    <published>2023-02-23T08:15:08+00:00</published>
   </entry>
 </feed>
