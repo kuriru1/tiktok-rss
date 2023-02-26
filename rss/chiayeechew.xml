@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-02-25T10:46:39+00:00</updated>
+  <updated>2023-02-26T07:37:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7181333009365208322</id>
-    <title>Monday isn’t blue huh~ #Christmas2022 #tiktoksingapore #tiktokmalaysia #dance #challenge </title>
-    <updated>2022-12-26T05:59:53+00:00</updated>
-    <content>Monday isn’t blue huh~ #Christmas2022 #tiktoksingapore #tiktokmalaysia #dance #challenge </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7181333009365208322" rel="alternate"/>
-    <published>2022-12-26T05:59:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7182591576349232386</id>
     <title>Face if my lover. 🥰🥰#tiktoksingapore #tiktokmalaysia #challenge #dance </title>
@@ -91,5 +83,13 @@
     <content>Wanna be “seggsy”? All you need is love &amp; good hygiene!  @FOXYAFFAIRS.SG on IG offered 3-steps intimate care routine, Kitty Rinse for cleansing, Kitty Scrub for exfoliating &amp; Kitty Drops for moisturising.</content>
     <link href="https://tiktok.com/@chiayeechew/video/7204043107430583554" rel="alternate"/>
     <published>2023-02-25T10:46:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7204365335657499906</id>
+    <title>When you asked for help with the dinner but you want to do TikTok. :/ #tiktoksingapore #trending #tiktokmalaysia #captetown #pringlebay #cookwithme </title>
+    <updated>2023-02-26T07:37:07+00:00</updated>
+    <content>When you asked for help with the dinner but you want to do TikTok. :/ #tiktoksingapore #trending #tiktokmalaysia #captetown #pringlebay #cookwithme </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7204365335657499906" rel="alternate"/>
+    <published>2023-02-26T07:37:07+00:00</published>
   </entry>
 </feed>
