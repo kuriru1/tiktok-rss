@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-02-28T16:02:34+00:00</updated>
+  <updated>2023-03-05T04:41:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7188141025712459009</id>
-    <title>Happy TGIF~ How’s my outfit today? :) #tiktoksingapore #tiktokmalaysia #dance #whitesinglet #highwaistdenimpants #ootd #cnyoutfit2022 #fitcheck </title>
-    <updated>2023-01-13T14:18:28+00:00</updated>
-    <content>Happy TGIF~ How’s my outfit today? :) #tiktoksingapore #tiktokmalaysia #dance #whitesinglet #highwaistdenimpants #ootd #cnyoutfit2022 #fitcheck </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7188141025712459009" rel="alternate"/>
-    <published>2023-01-13T14:18:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7188375599264681217</id>
     <title>☁️☁️#tiktoksingapore #tiktokmalaysia #dance </title>
@@ -91,5 +83,13 @@
     <content>Pleasant surprise to find a grand piano in a wine yard cottage. #tulbagh #wineyard #tiktoksingapore #tiktokmalaysia #trending #captetown #piano #pianocover #saronsberg #canon </content>
     <link href="https://tiktok.com/@chiayeechew/video/7205237775564688646" rel="alternate"/>
     <published>2023-02-28T16:02:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7206917553392782593</id>
+    <title>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium fr</title>
+    <updated>2023-03-05T04:41:04+00:00</updated>
+    <content>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium from 22 Feb to 5 Mar &amp; 15 Mar to 2 Apr. (1000hr - 2130hr) #perfumetiktok #floralscents #difuser #nefertumsg #perfumecheck </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7206917553392782593" rel="alternate"/>
+    <published>2023-03-05T04:41:04+00:00</published>
   </entry>
 </feed>
