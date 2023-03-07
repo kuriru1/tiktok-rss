@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-03-05T04:41:04+00:00</updated>
+  <updated>2023-03-07T12:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7188375599264681217</id>
-    <title>☁️☁️#tiktoksingapore #tiktokmalaysia #dance </title>
-    <updated>2023-01-14T05:28:47+00:00</updated>
-    <content>☁️☁️#tiktoksingapore #tiktokmalaysia #dance </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7188375599264681217" rel="alternate"/>
-    <published>2023-01-14T05:28:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7188815407245987074</id>
     <title>How I style a simple lovely dress~ #MakeNightsEpic #howtostyle #dress #simpledress #cny2022 #tiktoksingapore #tiktokmalaysia </title>
@@ -91,5 +83,13 @@
     <content>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium from 22 Feb to 5 Mar &amp; 15 Mar to 2 Apr. (1000hr - 2130hr) #perfumetiktok #floralscents #difuser #nefertumsg #perfumecheck </content>
     <link href="https://tiktok.com/@chiayeechew/video/7206917553392782593" rel="alternate"/>
     <published>2023-03-05T04:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7207777400778788098</id>
+    <title>Say hello to my personal cameraman &amp; travelling companion @Pivo_SG!  It’s compact, portable &amp; easy to set up~ get yours with PIVOF45C3 from Shopee: pivo_official_store.sg  #Pivo #ReelsMatePivo #TiktokMatePivo #iShootPivo #PivoPlayful #PivoSG #tiktoksingap</title>
+    <updated>2023-03-07T12:17:41+00:00</updated>
+    <content>Say hello to my personal cameraman &amp; travelling companion @Pivo_SG!  It’s compact, portable &amp; easy to set up~ get yours with PIVOF45C3 from Shopee: pivo_official_store.sg  #Pivo #ReelsMatePivo #TiktokMatePivo #iShootPivo #PivoPlayful #PivoSG #tiktoksingapore #tiktokmalaysia #traveltiktok #travelvlog #southafrica #capetown </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7207777400778788098" rel="alternate"/>
+    <published>2023-03-07T12:17:41+00:00</published>
   </entry>
 </feed>
