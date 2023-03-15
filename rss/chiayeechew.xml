@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-03-12T14:43:07+00:00</updated>
+  <updated>2023-03-11T03:30:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7190712230168546562</id>
+    <title>Stand a chance to win a $288 Money 兔 U Angpao when you participate in this dance challenge! Xin Nian Kuai Le!!  More details here: https://umg.lnk.to/moneytou</title>
+    <updated>2023-01-20T12:36:04+00:00</updated>
+    <content>Stand a chance to win a $288 Money 兔 U Angpao when you participate in this dance challenge! Xin Nian Kuai Le!!  More details here: https://umg.lnk.to/moneytou</content>
+    <link href="https://tiktok.com/@chiayeechew/video/7190712230168546562" rel="alternate"/>
+    <published>2023-01-20T12:36:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7196590420627967233</id>
     <title>Al’Skindict Welcome Voucher Giveaway! Get $28 off with any facial treatment and entitled to get a complimentary relaxing eye spa~  For those who are really interested you just need to comment down below👇and I will send you the voucher. *Only for 10  This </title>
@@ -83,13 +91,5 @@
     <content>Good Morning. 💕 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </content>
     <link href="https://tiktok.com/@chiayeechew/video/7209125962498215170" rel="alternate"/>
     <published>2023-03-11T03:30:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7209670316702960897</id>
-    <title>💔💔 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </title>
-    <updated>2023-03-12T14:43:07+00:00</updated>
-    <content>💔💔 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7209670316702960897" rel="alternate"/>
-    <published>2023-03-12T14:43:07+00:00</published>
   </entry>
 </feed>
