@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-03-24T10:09:14+00:00</updated>
+  <updated>2023-04-02T10:52:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7203261884454227201</id>
-    <title>Part 1 #CapCut #tiktoksingapore #trending #tiktokmalaysia #captetown #lionsheadcapetown </title>
-    <updated>2023-02-23T08:15:08+00:00</updated>
-    <content>Part 1 #CapCut #tiktoksingapore #trending #tiktokmalaysia #captetown #lionsheadcapetown </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7203261884454227201" rel="alternate"/>
-    <published>2023-02-23T08:15:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7204043107430583554</id>
     <title>Wanna be “seggsy”? All you need is love &amp; good hygiene!  @FOXYAFFAIRS.SG on IG offered 3-steps intimate care routine, Kitty Rinse for cleansing, Kitty Scrub for exfoliating &amp; Kitty Drops for moisturising.</title>
@@ -91,5 +83,13 @@
     <content>Happy TGIF 😘 #tiktok #tiktoksingapore #tiktokmalaysia #dancechallenge #trending </content>
     <link href="https://tiktok.com/@chiayeechew/video/7214052766283615496" rel="alternate"/>
     <published>2023-03-24T10:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7217403782139890945</id>
+    <title>Makan es krim ke? #tiktok #chillwithtiktok </title>
+    <updated>2023-04-02T10:52:57+00:00</updated>
+    <content>Makan es krim ke? #tiktok #chillwithtiktok </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7217403782139890945" rel="alternate"/>
+    <published>2023-04-02T10:52:57+00:00</published>
   </entry>
 </feed>
