@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-02T10:52:57+00:00</updated>
+  <updated>2023-04-06T14:44:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7204043107430583554</id>
-    <title>Wanna be “seggsy”? All you need is love &amp; good hygiene!  @FOXYAFFAIRS.SG on IG offered 3-steps intimate care routine, Kitty Rinse for cleansing, Kitty Scrub for exfoliating &amp; Kitty Drops for moisturising.</title>
-    <updated>2023-02-25T10:46:39+00:00</updated>
-    <content>Wanna be “seggsy”? All you need is love &amp; good hygiene!  @FOXYAFFAIRS.SG on IG offered 3-steps intimate care routine, Kitty Rinse for cleansing, Kitty Scrub for exfoliating &amp; Kitty Drops for moisturising.</content>
-    <link href="https://tiktok.com/@chiayeechew/video/7204043107430583554" rel="alternate"/>
-    <published>2023-02-25T10:46:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7204365335657499906</id>
     <title>When you asked for help with the dinner but you want to do TikTok. :/ #tiktoksingapore #trending #tiktokmalaysia #captetown #pringlebay #cookwithme </title>
@@ -91,5 +83,13 @@
     <content>Makan es krim ke? #tiktok #chillwithtiktok </content>
     <link href="https://tiktok.com/@chiayeechew/video/7217403782139890945" rel="alternate"/>
     <published>2023-04-02T10:52:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7218947859876433153</id>
+    <title>Wish you a good Friday tmr. 💕 #tiktok #tiktoksingapore #tiktokmalaysia </title>
+    <updated>2023-04-06T14:44:41+00:00</updated>
+    <content>Wish you a good Friday tmr. 💕 #tiktok #tiktoksingapore #tiktokmalaysia </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7218947859876433153" rel="alternate"/>
+    <published>2023-04-06T14:44:41+00:00</published>
   </entry>
 </feed>
