@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-06T14:44:41+00:00</updated>
+  <updated>2023-04-13T09:28:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7204365335657499906</id>
-    <title>When you asked for help with the dinner but you want to do TikTok. :/ #tiktoksingapore #trending #tiktokmalaysia #captetown #pringlebay #cookwithme </title>
-    <updated>2023-02-26T07:37:07+00:00</updated>
-    <content>When you asked for help with the dinner but you want to do TikTok. :/ #tiktoksingapore #trending #tiktokmalaysia #captetown #pringlebay #cookwithme </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7204365335657499906" rel="alternate"/>
-    <published>2023-02-26T07:37:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7205237775564688646</id>
     <title>Pleasant surprise to find a grand piano in a wine yard cottage. #tulbagh #wineyard #tiktoksingapore #tiktokmalaysia #trending #captetown #piano #pianocover #saronsberg #canon </title>
@@ -91,5 +83,13 @@
     <content>Wish you a good Friday tmr. 💕 #tiktok #tiktoksingapore #tiktokmalaysia </content>
     <link href="https://tiktok.com/@chiayeechew/video/7218947859876433153" rel="alternate"/>
     <published>2023-04-06T14:44:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7221463899655261441</id>
+    <title>Throwback to my mini birthday vlog with dad. 💕 #daddysgirl #birthdaygirl #birthdaycake #tiktokmalaysia #tiktoksingapore #capcut #familytime </title>
+    <updated>2023-04-13T09:28:14+00:00</updated>
+    <content>Throwback to my mini birthday vlog with dad. 💕 #daddysgirl #birthdaygirl #birthdaycake #tiktokmalaysia #tiktoksingapore #capcut #familytime </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7221463899655261441" rel="alternate"/>
+    <published>2023-04-13T09:28:14+00:00</published>
   </entry>
 </feed>
