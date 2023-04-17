@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-13T09:28:14+00:00</updated>
+  <updated>2023-04-17T09:03:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7205237775564688646</id>
-    <title>Pleasant surprise to find a grand piano in a wine yard cottage. #tulbagh #wineyard #tiktoksingapore #tiktokmalaysia #trending #captetown #piano #pianocover #saronsberg #canon </title>
-    <updated>2023-02-28T16:02:34+00:00</updated>
-    <content>Pleasant surprise to find a grand piano in a wine yard cottage. #tulbagh #wineyard #tiktoksingapore #tiktokmalaysia #trending #captetown #piano #pianocover #saronsberg #canon </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7205237775564688646" rel="alternate"/>
-    <published>2023-02-28T16:02:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7206917553392782593</id>
     <title>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium fr</title>
@@ -91,5 +83,13 @@
     <content>Throwback to my mini birthday vlog with dad. 💕 #daddysgirl #birthdaygirl #birthdaycake #tiktokmalaysia #tiktoksingapore #capcut #familytime </content>
     <link href="https://tiktok.com/@chiayeechew/video/7221463899655261441" rel="alternate"/>
     <published>2023-04-13T09:28:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7222941975794732289</id>
+    <title>Hi-Res Audio for @Nothing Ear (2). For powerful pure audio with no quality damage. Just how the artist intended.  #NothingSingapore #Ear2 </title>
+    <updated>2023-04-17T09:03:55+00:00</updated>
+    <content>Hi-Res Audio for @Nothing Ear (2). For powerful pure audio with no quality damage. Just how the artist intended.  #NothingSingapore #Ear2 </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7222941975794732289" rel="alternate"/>
+    <published>2023-04-17T09:03:55+00:00</published>
   </entry>
 </feed>
