@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-17T09:03:55+00:00</updated>
+  <updated>2023-04-18T13:16:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7206917553392782593</id>
-    <title>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium fr</title>
-    <updated>2023-03-05T04:41:04+00:00</updated>
-    <content>I have recently fell in love with this affordable perfume with floral scents from @nefertumfragrances. It has an intense rose and vanila scent which I like it so much!  They have range of perfume and you can always visit them at Takashimaya main atrium from 22 Feb to 5 Mar &amp; 15 Mar to 2 Apr. (1000hr - 2130hr) #perfumetiktok #floralscents #difuser #nefertumsg #perfumecheck </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7206917553392782593" rel="alternate"/>
-    <published>2023-03-05T04:41:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7207777400778788098</id>
     <title>Say hello to my personal cameraman &amp; travelling companion @Pivo_SG!  It’s compact, portable &amp; easy to set up~ get yours with PIVOF45C3 from Shopee: pivo_official_store.sg  #Pivo #ReelsMatePivo #TiktokMatePivo #iShootPivo #PivoPlayful #PivoSG #tiktoksingap</title>
@@ -91,5 +83,13 @@
     <content>Hi-Res Audio for @Nothing Ear (2). For powerful pure audio with no quality damage. Just how the artist intended.  #NothingSingapore #Ear2 </content>
     <link href="https://tiktok.com/@chiayeechew/video/7222941975794732289" rel="alternate"/>
     <published>2023-04-17T09:03:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7223378208559746305</id>
+    <title>💗💗 #tiktokmalaysia #tiktoksingapore #mood </title>
+    <updated>2023-04-18T13:16:44+00:00</updated>
+    <content>💗💗 #tiktokmalaysia #tiktoksingapore #mood </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7223378208559746305" rel="alternate"/>
+    <published>2023-04-18T13:16:44+00:00</published>
   </entry>
 </feed>
