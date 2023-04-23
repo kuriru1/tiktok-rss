@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-23T08:24:34+00:00</updated>
+  <updated>2023-04-23T14:54:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7209125962498215170</id>
-    <title>Good Morning. 💕 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </title>
-    <updated>2023-03-11T03:30:45+00:00</updated>
-    <content>Good Morning. 💕 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7209125962498215170" rel="alternate"/>
-    <published>2023-03-11T03:30:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7210718693276257537</id>
     <title>Everything will be fine, right? #tiktoksingapore #tiktokmalaysia #mood #blue #feelingblue </title>
@@ -91,5 +83,13 @@
     <content>My friend asked me to this trend but I did not expect it was a prank. #prank #tiktokmalaysia #tiktoksingapore #bestie @Beth.tbish </content>
     <link href="https://tiktok.com/@chiayeechew/video/7225158352727231745" rel="alternate"/>
     <published>2023-04-23T08:24:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7225258707272076545</id>
+    <title>Selamat Hari Raya! 🫶 #selamatrayaaidilfittri #cupid #Raya2023 #outfitcheck #ohlova #tiktoksingapore #mrt </title>
+    <updated>2023-04-23T14:54:00+00:00</updated>
+    <content>Selamat Hari Raya! 🫶 #selamatrayaaidilfittri #cupid #Raya2023 #outfitcheck #ohlova #tiktoksingapore #mrt </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7225258707272076545" rel="alternate"/>
+    <published>2023-04-23T14:54:00+00:00</published>
   </entry>
 </feed>
