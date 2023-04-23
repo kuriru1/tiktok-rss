@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-20T11:16:33+00:00</updated>
+  <updated>2023-04-23T08:24:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7207777400778788098</id>
-    <title>Say hello to my personal cameraman &amp; travelling companion @Pivo_SG!  It’s compact, portable &amp; easy to set up~ get yours with PIVOF45C3 from Shopee: pivo_official_store.sg  #Pivo #ReelsMatePivo #TiktokMatePivo #iShootPivo #PivoPlayful #PivoSG #tiktoksingap</title>
-    <updated>2023-03-07T12:17:41+00:00</updated>
-    <content>Say hello to my personal cameraman &amp; travelling companion @Pivo_SG!  It’s compact, portable &amp; easy to set up~ get yours with PIVOF45C3 from Shopee: pivo_official_store.sg  #Pivo #ReelsMatePivo #TiktokMatePivo #iShootPivo #PivoPlayful #PivoSG #tiktoksingapore #tiktokmalaysia #traveltiktok #travelvlog #southafrica #capetown </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7207777400778788098" rel="alternate"/>
-    <published>2023-03-07T12:17:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7209125962498215170</id>
     <title>Good Morning. 💕 #tiktoksingapore #tiktokmalaysia #trending #dancechallenge </title>
@@ -91,5 +83,13 @@
     <content>Outfit check~ #outfit #outfitcheck #ohlova #babydoll #whitedress #tiktoksingapore #dresswithme @OHVOLA </content>
     <link href="https://tiktok.com/@chiayeechew/video/7224089408587304193" rel="alternate"/>
     <published>2023-04-20T11:16:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7225158352727231745</id>
+    <title>My friend asked me to this trend but I did not expect it was a prank. #prank #tiktokmalaysia #tiktoksingapore #bestie @Beth.tbish </title>
+    <updated>2023-04-23T08:24:34+00:00</updated>
+    <content>My friend asked me to this trend but I did not expect it was a prank. #prank #tiktokmalaysia #tiktoksingapore #bestie @Beth.tbish </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7225158352727231745" rel="alternate"/>
+    <published>2023-04-23T08:24:34+00:00</published>
   </entry>
 </feed>
