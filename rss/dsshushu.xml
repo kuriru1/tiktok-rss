@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-04-24T13:15:34+00:00</updated>
+  <updated>2023-04-24T17:14:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7190019480297245979</id>
-    <title>A bit late but here is my draft</title>
-    <updated>2023-01-18T15:47:50+00:00</updated>
-    <content>A bit late but here is my draft</content>
-    <link href="https://tiktok.com/@dsshushu/video/7190019480297245979" rel="alternate"/>
-    <published>2023-01-18T15:47:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7190685165356633370</id>
     <title>No Title</title>
@@ -91,5 +83,13 @@
     <content>Ampun sp ampun hahaha</content>
     <link href="https://tiktok.com/@dsshushu/video/7225604430064897286" rel="alternate"/>
     <published>2023-04-24T13:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7225665982415555846</id>
+    <title>Done joined! </title>
+    <updated>2023-04-24T17:14:25+00:00</updated>
+    <content>Done joined! </content>
+    <link href="https://tiktok.com/@dsshushu/video/7225665982415555846" rel="alternate"/>
+    <published>2023-04-24T17:14:25+00:00</published>
   </entry>
 </feed>
