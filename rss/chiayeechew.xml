@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-04-23T14:54:00+00:00</updated>
+  <updated>2023-05-10T09:55:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7210718693276257537</id>
-    <title>Everything will be fine, right? #tiktoksingapore #tiktokmalaysia #mood #blue #feelingblue </title>
-    <updated>2023-03-15T10:31:21+00:00</updated>
-    <content>Everything will be fine, right? #tiktoksingapore #tiktokmalaysia #mood #blue #feelingblue </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7210718693276257537" rel="alternate"/>
-    <published>2023-03-15T10:31:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7213240154843090178</id>
     <title>My dad’s my best mate, and always will be.💕 #daddysgirl #tiktoksingapore #tiktokmalaysia #familygoals #dancechallenge #youngdaddy </title>
@@ -91,5 +83,13 @@
     <content>Selamat Hari Raya! 🫶 #selamatrayaaidilfittri #cupid #Raya2023 #outfitcheck #ohlova #tiktoksingapore #mrt </content>
     <link href="https://tiktok.com/@chiayeechew/video/7225258707272076545" rel="alternate"/>
     <published>2023-04-23T14:54:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7231490247605996801</id>
+    <title>Replying to @grp69420 My TikTok “Boyfriend” 😆 #daddysgirl #daddydaugther #dancechallenge #tiktoksingapore #tiktokmalaysia </title>
+    <updated>2023-05-10T09:55:36+00:00</updated>
+    <content>Replying to @grp69420 My TikTok “Boyfriend” 😆 #daddysgirl #daddydaugther #dancechallenge #tiktoksingapore #tiktokmalaysia </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7231490247605996801" rel="alternate"/>
+    <published>2023-05-10T09:55:36+00:00</published>
   </entry>
 </feed>
