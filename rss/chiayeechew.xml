@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-05-12T09:29:41+00:00</updated>
+  <updated>2023-05-15T13:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7214052766283615496</id>
-    <title>Happy TGIF 😘 #tiktok #tiktoksingapore #tiktokmalaysia #dancechallenge #trending </title>
-    <updated>2023-03-24T10:09:14+00:00</updated>
-    <content>Happy TGIF 😘 #tiktok #tiktoksingapore #tiktokmalaysia #dancechallenge #trending </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7214052766283615496" rel="alternate"/>
-    <published>2023-03-24T10:09:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7217403782139890945</id>
     <title>Makan es krim ke? #tiktok #chillwithtiktok </title>
@@ -91,5 +83,13 @@
     <content>Have you guys came and supported? 😆😅 #coachella2023 #jenniecoachella #tiktoksingapore #tiktokmalaysia #pov #ny #westfieldny </content>
     <link href="https://tiktok.com/@chiayeechew/video/7232225751993421057" rel="alternate"/>
     <published>2023-05-12T09:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7233399844142959874</id>
+    <title>Hope your Monday isn’t blue. 💕✨ #beathatchallenge #dancechallenge #tiktokmalaysia #tiktoksingapore #beatthatboywhitabat </title>
+    <updated>2023-05-15T13:25:47+00:00</updated>
+    <content>Hope your Monday isn’t blue. 💕✨ #beathatchallenge #dancechallenge #tiktokmalaysia #tiktoksingapore #beatthatboywhitabat </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7233399844142959874" rel="alternate"/>
+    <published>2023-05-15T13:25:47+00:00</published>
   </entry>
 </feed>
