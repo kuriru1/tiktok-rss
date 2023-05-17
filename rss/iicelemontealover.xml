@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-05-16T16:33:11+00:00</updated>
+  <updated>2023-05-16T06:06:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,13 +19,5 @@
     <content>jiggle jiggle skin </content>
     <link href="https://tiktok.com/@iicelemontealover/video/7233657844921404679" rel="alternate"/>
     <published>2023-05-16T06:06:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iicelemontealover/video/7233819228325874951</id>
-    <title>#CapCut </title>
-    <updated>2023-05-16T16:33:11+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://tiktok.com/@iicelemontealover/video/7233819228325874951" rel="alternate"/>
-    <published>2023-05-16T16:33:11+00:00</published>
   </entry>
 </feed>
