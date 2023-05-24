@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-05-23T09:51:37+00:00</updated>
+  <updated>2023-05-24T12:25:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7218947859876433153</id>
-    <title>Wish you a good Friday tmr. 💕 #tiktok #tiktoksingapore #tiktokmalaysia </title>
-    <updated>2023-04-06T14:44:41+00:00</updated>
-    <content>Wish you a good Friday tmr. 💕 #tiktok #tiktoksingapore #tiktokmalaysia </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7218947859876433153" rel="alternate"/>
-    <published>2023-04-06T14:44:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7221463899655261441</id>
     <title>Throwback to my mini birthday vlog with dad. 💕 #daddysgirl #birthdaygirl #birthdaycake #tiktokmalaysia #tiktoksingapore #capcut #familytime </title>
@@ -91,5 +83,13 @@
     <content>🙌🏻  #tiktoksingapore #tiktokmalaysia #singapore #putyourhandsup #trending </content>
     <link href="https://tiktok.com/@chiayeechew/video/7236313343978507522" rel="alternate"/>
     <published>2023-05-23T09:51:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7236724058665094401</id>
+    <title>🖤🖤#tiktoksingapore #tiktokmalaysia #dancechallenge </title>
+    <updated>2023-05-24T12:25:26+00:00</updated>
+    <content>🖤🖤#tiktoksingapore #tiktokmalaysia #dancechallenge </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7236724058665094401" rel="alternate"/>
+    <published>2023-05-24T12:25:26+00:00</published>
   </entry>
 </feed>
