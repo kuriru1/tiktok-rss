@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-05-16T15:01:09+00:00</updated>
+  <updated>2023-05-27T19:43:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7197787853097667866</id>
-    <title>2% dari kisah hidup since 2018. #terpalingberdikari </title>
-    <updated>2023-02-08T14:13:06+00:00</updated>
-    <content>2% dari kisah hidup since 2018. #terpalingberdikari </content>
-    <link href="https://tiktok.com/@dsshushu/video/7197787853097667866" rel="alternate"/>
-    <published>2023-02-08T14:13:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7204054472547421466</id>
     <title>Em what is this atul??</title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@dsshushu/video/7233795514238569735" rel="alternate"/>
     <published>2023-05-16T15:01:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7237950208552766728</id>
+    <title>Bakal isteri mithali 2023</title>
+    <updated>2023-05-27T19:43:32+00:00</updated>
+    <content>Bakal isteri mithali 2023</content>
+    <link href="https://tiktok.com/@dsshushu/video/7237950208552766728" rel="alternate"/>
+    <published>2023-05-27T19:43:32+00:00</published>
   </entry>
 </feed>

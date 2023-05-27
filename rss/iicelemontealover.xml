@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-05-22T16:09:14+00:00</updated>
+  <updated>2023-05-27T19:41:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -67,5 +67,13 @@
     <content>👍👍👍</content>
     <link href="https://tiktok.com/@iicelemontealover/video/7236039568783363336" rel="alternate"/>
     <published>2023-05-22T16:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iicelemontealover/video/7237949525225180424</id>
+    <title>i am blind and deaf now 💅💅💅</title>
+    <updated>2023-05-27T19:41:09+00:00</updated>
+    <content>i am blind and deaf now 💅💅💅</content>
+    <link href="https://tiktok.com/@iicelemontealover/video/7237949525225180424" rel="alternate"/>
+    <published>2023-05-27T19:41:09+00:00</published>
   </entry>
 </feed>
