@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-05-27T19:43:32+00:00</updated>
+  <updated>2023-05-28T12:02:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7204054472547421466</id>
-    <title>Em what is this atul??</title>
-    <updated>2023-02-25T11:30:46+00:00</updated>
-    <content>Em what is this atul??</content>
-    <link href="https://tiktok.com/@dsshushu/video/7204054472547421466" rel="alternate"/>
-    <published>2023-02-25T11:30:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7206950880325766427</id>
     <title>Ye saya membaca bukan menyanyi</title>
@@ -91,5 +83,13 @@
     <content>Bakal isteri mithali 2023</content>
     <link href="https://tiktok.com/@dsshushu/video/7237950208552766728" rel="alternate"/>
     <published>2023-05-27T19:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7238202612250594567</id>
+    <title>Macam salah je haha</title>
+    <updated>2023-05-28T12:02:56+00:00</updated>
+    <content>Macam salah je haha</content>
+    <link href="https://tiktok.com/@dsshushu/video/7238202612250594567" rel="alternate"/>
+    <published>2023-05-28T12:02:56+00:00</published>
   </entry>
 </feed>
