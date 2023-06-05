@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-05-27T08:00:55+00:00</updated>
+  <updated>2023-06-05T12:08:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7222941975794732289</id>
-    <title>Hi-Res Audio for @Nothing Ear (2). For powerful pure audio with no quality damage. Just how the artist intended.  #NothingSingapore #Ear2 </title>
-    <updated>2023-04-17T09:03:55+00:00</updated>
-    <content>Hi-Res Audio for @Nothing Ear (2). For powerful pure audio with no quality damage. Just how the artist intended.  #NothingSingapore #Ear2 </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7222941975794732289" rel="alternate"/>
-    <published>2023-04-17T09:03:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7224089408587304193</id>
     <title>Outfit check~ #outfit #outfitcheck #ohlova #babydoll #whitedress #tiktoksingapore #dresswithme @OHVOLA </title>
@@ -91,5 +83,13 @@
     <content>There’s always a reason I like to walk beside my brother. 👫#siblingcheck #siblings #hktrip #heightdifference #outfitcheck #tiktoksingapore #tiktokmalaysia </content>
     <link href="https://tiktok.com/@chiayeechew/video/7237769147046694145" rel="alternate"/>
     <published>2023-05-27T08:00:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7241172630403927298</id>
+    <title>Are you ready for 6.6? 😇 #tiktoksingapore #thisonemyshoppeehaul  #greatshopeesale </title>
+    <updated>2023-06-05T12:08:11+00:00</updated>
+    <content>Are you ready for 6.6? 😇 #tiktoksingapore #thisonemyshoppeehaul  #greatshopeesale </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7241172630403927298" rel="alternate"/>
+    <published>2023-06-05T12:08:11+00:00</published>
   </entry>
 </feed>
