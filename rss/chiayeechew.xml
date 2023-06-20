@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-06-17T11:26:31+00:00</updated>
+  <updated>2023-06-20T11:50:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7225258707272076545</id>
-    <title>Selamat Hari Raya! 🫶 #selamatrayaaidilfittri #cupid #Raya2023 #outfitcheck #ohlova #tiktoksingapore #mrt </title>
-    <updated>2023-04-23T14:54:00+00:00</updated>
-    <content>Selamat Hari Raya! 🫶 #selamatrayaaidilfittri #cupid #Raya2023 #outfitcheck #ohlova #tiktoksingapore #mrt </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7225258707272076545" rel="alternate"/>
-    <published>2023-04-23T14:54:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7231490247605996801</id>
     <title>Replying to @grp69420 My TikTok “Boyfriend” 😆 #daddysgirl #daddydaugther #dancechallenge #tiktoksingapore #tiktokmalaysia </title>
@@ -91,5 +83,13 @@
     <content>准备开始😅 #在小小的花園裡挖呀挖呀挖 #tiktoksingapore #tiktokmalaysia #dancechallenge </content>
     <link href="https://tiktok.com/@chiayeechew/video/7245614927346486535" rel="alternate"/>
     <published>2023-06-17T11:26:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7246734460249525506</id>
+    <title>Catch me playing “Part of Your World” on my Foldi piano at the beach. 😅 Well, being a mermaid is harder than i thought. #travelclef #pianocover #partofyourworld #singaporebeach #changibeach #mermaidtail #mermaidtiktok #singaporetiktok #tiktoksingapore #ti</title>
+    <updated>2023-06-20T11:50:54+00:00</updated>
+    <content>Catch me playing “Part of Your World” on my Foldi piano at the beach. 😅 Well, being a mermaid is harder than i thought. #travelclef #pianocover #partofyourworld #singaporebeach #changibeach #mermaidtail #mermaidtiktok #singaporetiktok #tiktoksingapore #tiktokpianocover </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7246734460249525506" rel="alternate"/>
+    <published>2023-06-20T11:50:54+00:00</published>
   </entry>
 </feed>
