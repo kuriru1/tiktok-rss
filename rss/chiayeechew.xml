@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-06-20T11:50:54+00:00</updated>
+  <updated>2023-06-23T08:59:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7231490247605996801</id>
-    <title>Replying to @grp69420 My TikTok “Boyfriend” 😆 #daddysgirl #daddydaugther #dancechallenge #tiktoksingapore #tiktokmalaysia </title>
-    <updated>2023-05-10T09:55:36+00:00</updated>
-    <content>Replying to @grp69420 My TikTok “Boyfriend” 😆 #daddysgirl #daddydaugther #dancechallenge #tiktoksingapore #tiktokmalaysia </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7231490247605996801" rel="alternate"/>
-    <published>2023-05-10T09:55:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7232225751993421057</id>
     <title>Have you guys came and supported? 😆😅 #coachella2023 #jenniecoachella #tiktoksingapore #tiktokmalaysia #pov #ny #westfieldny </title>
@@ -91,5 +83,13 @@
     <content>Catch me playing “Part of Your World” on my Foldi piano at the beach. 😅 Well, being a mermaid is harder than i thought. #travelclef #pianocover #partofyourworld #singaporebeach #changibeach #mermaidtail #mermaidtiktok #singaporetiktok #tiktoksingapore #tiktokpianocover </content>
     <link href="https://tiktok.com/@chiayeechew/video/7246734460249525506" rel="alternate"/>
     <published>2023-06-20T11:50:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7247803493065460994</id>
+    <title>Happy TGIF ✨ #bangbangbang #tiktoksingapore </title>
+    <updated>2023-06-23T08:59:18+00:00</updated>
+    <content>Happy TGIF ✨ #bangbangbang #tiktoksingapore </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7247803493065460994" rel="alternate"/>
+    <published>2023-06-23T08:59:18+00:00</published>
   </entry>
 </feed>
