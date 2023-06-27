@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-06-25T12:48:46+00:00</updated>
+  <updated>2023-06-27T10:19:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7233399844142959874</id>
-    <title>Hope your Monday isn’t blue. 💕✨ #beathatchallenge #dancechallenge #tiktokmalaysia #tiktoksingapore #beatthatboywhitabat </title>
-    <updated>2023-05-15T13:25:47+00:00</updated>
-    <content>Hope your Monday isn’t blue. 💕✨ #beathatchallenge #dancechallenge #tiktokmalaysia #tiktoksingapore #beatthatboywhitabat </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7233399844142959874" rel="alternate"/>
-    <published>2023-05-15T13:25:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7236313343978507522</id>
     <title>🙌🏻  #tiktoksingapore #tiktokmalaysia #singapore #putyourhandsup #trending </title>
@@ -91,5 +83,13 @@
     <content>But my camera man was working too hard. 😂 #sanfrancisco #yosemite #mariposagroove #yosemitenationalpark #california </content>
     <link href="https://tiktok.com/@chiayeechew/video/7248604789297401090" rel="alternate"/>
     <published>2023-06-25T12:48:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7249308564819430657</id>
+    <title>How’s your day? #CapCut #singaporetiktok #homesweethome🏡 #chill </title>
+    <updated>2023-06-27T10:19:44+00:00</updated>
+    <content>How’s your day? #CapCut #singaporetiktok #homesweethome🏡 #chill </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7249308564819430657" rel="alternate"/>
+    <published>2023-06-27T10:19:44+00:00</published>
   </entry>
 </feed>
