@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-06-29T03:47:06+00:00</updated>
+  <updated>2023-06-29T14:30:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7236724058665094401</id>
-    <title>🖤🖤#tiktoksingapore #tiktokmalaysia #dancechallenge </title>
-    <updated>2023-05-24T12:25:26+00:00</updated>
-    <content>🖤🖤#tiktoksingapore #tiktokmalaysia #dancechallenge </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7236724058665094401" rel="alternate"/>
-    <published>2023-05-24T12:25:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7237769147046694145</id>
     <title>There’s always a reason I like to walk beside my brother. 👫#siblingcheck #siblings #hktrip #heightdifference #outfitcheck #tiktoksingapore #tiktokmalaysia </title>
@@ -91,5 +83,13 @@
     <content>Really love their outfits! @OHVOLA #ohvola #ootd #outfitideas #officelady #homesweethome🏡 #ohvolaootd #CapCut #singaporetiktok #chill </content>
     <link href="https://tiktok.com/@chiayeechew/video/7249949558992571649" rel="alternate"/>
     <published>2023-06-29T03:47:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7250112489550122242</id>
+    <title>🫶 #homesweethome🏡 #tiktoksingapore #chill </title>
+    <updated>2023-06-29T14:30:04+00:00</updated>
+    <content>🫶 #homesweethome🏡 #tiktoksingapore #chill </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7250112489550122242" rel="alternate"/>
+    <published>2023-06-29T14:30:04+00:00</published>
   </entry>
 </feed>
