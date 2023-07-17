@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-07-17T11:26:33+00:00</updated>
+  <updated>2023-07-10T11:10:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7242620473693981960</id>
+    <title>Am i too late? 🥺#tiktoksingapore #tiktokmalaysia #tgif #dancechallenge #thaisong </title>
+    <updated>2023-06-09T09:46:30+00:00</updated>
+    <content>Am i too late? 🥺#tiktoksingapore #tiktokmalaysia #tgif #dancechallenge #thaisong </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7242620473693981960" rel="alternate"/>
+    <published>2023-06-09T09:46:30+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7245614927346486535</id>
     <title>准备开始😅 #在小小的花園裡挖呀挖呀挖 #tiktoksingapore #tiktokmalaysia #dancechallenge </title>
@@ -83,13 +91,5 @@
     <content>Dont waste your time to write those negative comments okay, hope to spread positive vibes✨🫶#tiktoksingapore #tiktikmalaysia #dancechallenge #ootd </content>
     <link href="https://tiktok.com/@chiayeechew/video/7254145675967991042" rel="alternate"/>
     <published>2023-07-10T11:10:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7256747486008642818</id>
-    <title>This filter make my dark circles even obvious! 😨 #trending #trendingfilter </title>
-    <updated>2023-07-17T11:26:33+00:00</updated>
-    <content>This filter make my dark circles even obvious! 😨 #trending #trendingfilter </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7256747486008642818" rel="alternate"/>
-    <published>2023-07-17T11:26:33+00:00</published>
   </entry>
 </feed>
