@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-05-28T12:02:56+00:00</updated>
+  <updated>2023-07-18T12:07:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7195455087773289754</id>
-    <title>Clearkan 2022 draft</title>
-    <updated>2023-02-02T07:20:48+00:00</updated>
-    <content>Clearkan 2022 draft</content>
-    <link href="https://tiktok.com/@dsshushu/video/7195455087773289754" rel="alternate"/>
-    <published>2023-02-02T07:20:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7204054472547421466</id>
     <title>Em what is this atul??</title>
@@ -91,5 +83,13 @@
     <content>Macam salah je haha</content>
     <link href="https://tiktok.com/@dsshushu/video/7238202612250594567" rel="alternate"/>
     <published>2023-05-28T12:02:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7257129013037124882</id>
+    <title>No Title</title>
+    <updated>2023-07-18T12:07:02+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7257129013037124882" rel="alternate"/>
+    <published>2023-07-18T12:07:02+00:00</published>
   </entry>
 </feed>
