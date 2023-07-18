@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-07-12T12:36:43+00:00</updated>
+  <updated>2023-07-18T12:38:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -75,5 +75,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@iicelemontealover/video/7254910155475651858" rel="alternate"/>
     <published>2023-07-12T12:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iicelemontealover/video/7257137187844656391</id>
+    <title>Realizing that life is peaceful when you do the things you like</title>
+    <updated>2023-07-18T12:38:45+00:00</updated>
+    <content>Realizing that life is peaceful when you do the things you like</content>
+    <link href="https://tiktok.com/@iicelemontealover/video/7257137187844656391" rel="alternate"/>
+    <published>2023-07-18T12:38:45+00:00</published>
   </entry>
 </feed>
