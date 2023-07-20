@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-07-19T20:57:46+00:00</updated>
+  <updated>2023-07-20T16:46:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iicelemontealover</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iicelemontealover/video/7254157666010893576</id>
-    <title>No Title</title>
-    <updated>2023-07-10T11:56:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@iicelemontealover/video/7254157666010893576" rel="alternate"/>
-    <published>2023-07-10T11:56:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iicelemontealover/video/7254225339113622802</id>
     <title>No Title</title>
@@ -91,5 +83,13 @@
     <content>#CapCut tis so kiut</content>
     <link href="https://tiktok.com/@iicelemontealover/video/7257636841774468370" rel="alternate"/>
     <published>2023-07-19T20:57:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iicelemontealover/video/7257943101174500616</id>
+    <title>like damn bro thats a foul</title>
+    <updated>2023-07-20T16:46:13+00:00</updated>
+    <content>like damn bro thats a foul</content>
+    <link href="https://tiktok.com/@iicelemontealover/video/7257943101174500616" rel="alternate"/>
+    <published>2023-07-20T16:46:13+00:00</published>
   </entry>
 </feed>
