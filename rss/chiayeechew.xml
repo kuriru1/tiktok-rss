@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-07-23T11:40:31+00:00</updated>
+  <updated>2023-08-02T11:43:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7245614927346486535</id>
-    <title>准备开始😅 #在小小的花園裡挖呀挖呀挖 #tiktoksingapore #tiktokmalaysia #dancechallenge </title>
-    <updated>2023-06-17T11:26:31+00:00</updated>
-    <content>准备开始😅 #在小小的花園裡挖呀挖呀挖 #tiktoksingapore #tiktokmalaysia #dancechallenge </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7245614927346486535" rel="alternate"/>
-    <published>2023-06-17T11:26:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7246734460249525506</id>
     <title>Catch me playing “Part of Your World” on my Foldi piano at the beach. 😅 Well, being a mermaid is harder than i thought. #travelclef #pianocover #partofyourworld #singaporebeach #changibeach #mermaidtail #mermaidtiktok #singaporetiktok #tiktoksingapore #ti</title>
@@ -91,5 +83,13 @@
     <content>With bestie @Beth.tbish  🥰🥰 #trending #tiktoksingapore #dancechallenge #bestie #bestiegoals #changi #changiairport #jewel </content>
     <link href="https://tiktok.com/@chiayeechew/video/7258977599253236994" rel="alternate"/>
     <published>2023-07-23T11:40:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7262689129962425618</id>
+    <title>Feeling “Barbie” today~ 🥰 #imabarbiegirl #barbiegirl #barbiemovie #barbie #tiktoksingapore #barbieoutfit </title>
+    <updated>2023-08-02T11:43:09+00:00</updated>
+    <content>Feeling “Barbie” today~ 🥰 #imabarbiegirl #barbiegirl #barbiemovie #barbie #tiktoksingapore #barbieoutfit </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7262689129962425618" rel="alternate"/>
+    <published>2023-08-02T11:43:09+00:00</published>
   </entry>
 </feed>
