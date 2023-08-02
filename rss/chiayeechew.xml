@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-07-23T11:40:31+00:00</updated>
+  <updated>2023-07-10T11:10:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7241172630403927298</id>
+    <title>Are you ready for 6.6? 😇 #tiktoksingapore #thisonemyshoppeehaul  #greatshopeesale </title>
+    <updated>2023-06-05T12:08:11+00:00</updated>
+    <content>Are you ready for 6.6? 😇 #tiktoksingapore #thisonemyshoppeehaul  #greatshopeesale </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7241172630403927298" rel="alternate"/>
+    <published>2023-06-05T12:08:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7242620473693981960</id>
+    <title>Am i too late? 🥺#tiktoksingapore #tiktokmalaysia #tgif #dancechallenge #thaisong </title>
+    <updated>2023-06-09T09:46:30+00:00</updated>
+    <content>Am i too late? 🥺#tiktoksingapore #tiktokmalaysia #tgif #dancechallenge #thaisong </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7242620473693981960" rel="alternate"/>
+    <published>2023-06-09T09:46:30+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7245614927346486535</id>
     <title>准备开始😅 #在小小的花園裡挖呀挖呀挖 #tiktoksingapore #tiktokmalaysia #dancechallenge </title>
@@ -27,14 +43,6 @@
     <content>Catch me playing “Part of Your World” on my Foldi piano at the beach. 😅 Well, being a mermaid is harder than i thought. #travelclef #pianocover #partofyourworld #singaporebeach #changibeach #mermaidtail #mermaidtiktok #singaporetiktok #tiktoksingapore #tiktokpianocover </content>
     <link href="https://tiktok.com/@chiayeechew/video/7246734460249525506" rel="alternate"/>
     <published>2023-06-20T11:50:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7247803493065460994</id>
-    <title>Happy TGIF ✨ #bangbangbang #tiktoksingapore </title>
-    <updated>2023-06-23T08:59:18+00:00</updated>
-    <content>Happy TGIF ✨ #bangbangbang #tiktoksingapore </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7247803493065460994" rel="alternate"/>
-    <published>2023-06-23T08:59:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7248604789297401090</id>
@@ -83,13 +91,5 @@
     <content>Dont waste your time to write those negative comments okay, hope to spread positive vibes✨🫶#tiktoksingapore #tiktikmalaysia #dancechallenge #ootd </content>
     <link href="https://tiktok.com/@chiayeechew/video/7254145675967991042" rel="alternate"/>
     <published>2023-07-10T11:10:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7258977599253236994</id>
-    <title>With bestie @Beth.tbish  🥰🥰 #trending #tiktoksingapore #dancechallenge #bestie #bestiegoals #changi #changiairport #jewel </title>
-    <updated>2023-07-23T11:40:31+00:00</updated>
-    <content>With bestie @Beth.tbish  🥰🥰 #trending #tiktoksingapore #dancechallenge #bestie #bestiegoals #changi #changiairport #jewel </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7258977599253236994" rel="alternate"/>
-    <published>2023-07-23T11:40:31+00:00</published>
   </entry>
 </feed>
