@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
   <entry>
-    <id>https://tiktok.com/@dsshushu/video/7204054472547421466</id>
-    <title>Em what is this atul??</title>
-    <updated>2023-02-25T11:30:46+00:00</updated>
-    <content>Em what is this atul??</content>
-    <link href="https://tiktok.com/@dsshushu/video/7204054472547421466" rel="alternate"/>
-    <published>2023-02-25T11:30:46+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@dsshushu/video/7206950880325766427</id>
     <title>Ye saya membaca bukan menyanyi</title>
     <updated>2023-03-05T06:50:20+00:00</updated>
@@ -83,6 +75,14 @@
     <content>Macam salah je haha</content>
     <link href="https://tiktok.com/@dsshushu/video/7238202612250594567" rel="alternate"/>
     <published>2023-05-28T12:02:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7257129013037124882</id>
+    <title>No Title</title>
+    <updated>2023-07-18T12:07:02+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7257129013037124882" rel="alternate"/>
+    <published>2023-07-18T12:07:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7258731568800271623</id>
