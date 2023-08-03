@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-08-03T16:24:25+00:00</updated>
+  <updated>2023-07-22T19:46:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7206950880325766427</id>
+    <title>Ye saya membaca bukan menyanyi</title>
+    <updated>2023-03-05T06:50:20+00:00</updated>
+    <content>Ye saya membaca bukan menyanyi</content>
+    <link href="https://tiktok.com/@dsshushu/video/7206950880325766427" rel="alternate"/>
+    <published>2023-03-05T06:50:20+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7220108960345509126</id>
     <title>Tipu je. </title>
@@ -83,13 +91,5 @@
     <content>Dear friends im sorry. I already tried my best.</content>
     <link href="https://tiktok.com/@dsshushu/video/7258731568800271623" rel="alternate"/>
     <published>2023-07-22T19:46:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7263132691455872257</id>
-    <title>Sejenis muka dry skin yang lepas cuci muka terus muka jadi kering bolehla try. Atul approve ✅  Minta maaf sangat barang kalau berkesan memang kita terus letak bag kuning tau.  @Naaj.Inc </title>
-    <updated>2023-08-03T16:24:25+00:00</updated>
-    <content>Sejenis muka dry skin yang lepas cuci muka terus muka jadi kering bolehla try. Atul approve ✅  Minta maaf sangat barang kalau berkesan memang kita terus letak bag kuning tau.  @Naaj.Inc </content>
-    <link href="https://tiktok.com/@dsshushu/video/7263132691455872257" rel="alternate"/>
-    <published>2023-08-03T16:24:25+00:00</published>
   </entry>
 </feed>
