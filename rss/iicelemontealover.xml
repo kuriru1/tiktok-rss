@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-08-11T09:55:35+00:00</updated>
+  <updated>2023-08-12T19:33:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iicelemontealover</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iicelemontealover/video/7258167972190031112</id>
-    <title>birthday outfit &lt;3</title>
-    <updated>2023-07-21T07:18:50+00:00</updated>
-    <content>birthday outfit &lt;3</content>
-    <link href="https://tiktok.com/@iicelemontealover/video/7258167972190031112" rel="alternate"/>
-    <published>2023-07-21T07:18:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iicelemontealover/video/7258522850326220039</id>
     <title>#CapCut </title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@iicelemontealover/video/7266001170450189569" rel="alternate"/>
     <published>2023-08-11T09:55:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iicelemontealover/video/7266521186182434050</id>
+    <title>No Title</title>
+    <updated>2023-08-12T19:33:38+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@iicelemontealover/video/7266521186182434050" rel="alternate"/>
+    <published>2023-08-12T19:33:38+00:00</published>
   </entry>
 </feed>
