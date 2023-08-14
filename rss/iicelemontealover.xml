@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iicelemontealover</id>
   <title>iicelemontealover TikTok</title>
-  <updated>2023-08-12T19:33:38+00:00</updated>
+  <updated>2023-08-13T08:53:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iicelemontealover</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iicelemontealover/video/7258522850326220039</id>
-    <title>#CapCut </title>
-    <updated>2023-07-22T06:15:55+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://tiktok.com/@iicelemontealover/video/7258522850326220039" rel="alternate"/>
-    <published>2023-07-22T06:15:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iicelemontealover/video/7258526549241105682</id>
     <title>#CapCut my comfort place &lt;3</title>
@@ -91,5 +83,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@iicelemontealover/video/7266521186182434050" rel="alternate"/>
     <published>2023-08-12T19:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iicelemontealover/video/7266727299901394178</id>
+    <title>hes so big and fat and obese now 🥲</title>
+    <updated>2023-08-13T08:53:22+00:00</updated>
+    <content>hes so big and fat and obese now 🥲</content>
+    <link href="https://tiktok.com/@iicelemontealover/video/7266727299901394178" rel="alternate"/>
+    <published>2023-08-13T08:53:22+00:00</published>
   </entry>
 </feed>
