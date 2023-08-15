@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
   <entry>
-    <id>https://tiktok.com/@dsshushu/video/7190685165356633370</id>
-    <title>No Title</title>
-    <updated>2023-01-20T10:51:02+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@dsshushu/video/7190685165356633370" rel="alternate"/>
-    <published>2023-01-20T10:51:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@dsshushu/video/7191920451088551194</id>
     <title>No Title</title>
     <updated>2023-01-23T18:44:56+00:00</updated>
@@ -51,6 +43,14 @@
     <content>Tipu je. </content>
     <link href="https://tiktok.com/@dsshushu/video/7220108960345509126" rel="alternate"/>
     <published>2023-04-09T17:50:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7224818713701223685</id>
+    <title>Mat ri ye</title>
+    <updated>2023-04-22T10:26:35+00:00</updated>
+    <content>Mat ri ye</content>
+    <link href="https://tiktok.com/@dsshushu/video/7224818713701223685" rel="alternate"/>
+    <published>2023-04-22T10:26:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7225604430064897286</id>
