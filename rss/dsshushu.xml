@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
   <entry>
-    <id>https://tiktok.com/@dsshushu/video/7190685165356633370</id>
-    <title>No Title</title>
-    <updated>2023-01-20T10:51:02+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@dsshushu/video/7190685165356633370" rel="alternate"/>
-    <published>2023-01-20T10:51:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@dsshushu/video/7191920451088551194</id>
     <title>No Title</title>
     <updated>2023-01-23T18:44:56+00:00</updated>
@@ -75,6 +67,14 @@
     <content>Done joined! </content>
     <link href="https://tiktok.com/@dsshushu/video/7225665982415555846" rel="alternate"/>
     <published>2023-04-24T17:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7233795514238569735</id>
+    <title>No Title</title>
+    <updated>2023-05-16T15:01:09+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7233795514238569735" rel="alternate"/>
+    <published>2023-05-16T15:01:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7237950208552766728</id>
