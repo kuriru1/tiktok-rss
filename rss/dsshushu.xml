@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-08-16T03:22:03.888308+00:00</updated>
+  <updated>2023-07-22T19:46:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7191920451088551194</id>
+    <title>No Title</title>
+    <updated>2023-01-23T18:44:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7191920451088551194" rel="alternate"/>
+    <published>2023-01-23T18:44:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7195455087773289754</id>
+    <title>Clearkan 2022 draft</title>
+    <updated>2023-02-02T07:20:48+00:00</updated>
+    <content>Clearkan 2022 draft</content>
+    <link href="https://tiktok.com/@dsshushu/video/7195455087773289754" rel="alternate"/>
+    <published>2023-02-02T07:20:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7206950880325766427</id>
+    <title>Ye saya membaca bukan menyanyi</title>
+    <updated>2023-03-05T06:50:20+00:00</updated>
+    <content>Ye saya membaca bukan menyanyi</content>
+    <link href="https://tiktok.com/@dsshushu/video/7206950880325766427" rel="alternate"/>
+    <published>2023-03-05T06:50:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7220108960345509126</id>
+    <title>Tipu je. </title>
+    <updated>2023-04-09T17:50:20+00:00</updated>
+    <content>Tipu je. </content>
+    <link href="https://tiktok.com/@dsshushu/video/7220108960345509126" rel="alternate"/>
+    <published>2023-04-09T17:50:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7224818713701223685</id>
+    <title>Mat ri ye</title>
+    <updated>2023-04-22T10:26:35+00:00</updated>
+    <content>Mat ri ye</content>
+    <link href="https://tiktok.com/@dsshushu/video/7224818713701223685" rel="alternate"/>
+    <published>2023-04-22T10:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7225604430064897286</id>
+    <title>Ampun sp ampun hahaha</title>
+    <updated>2023-04-24T13:15:34+00:00</updated>
+    <content>Ampun sp ampun hahaha</content>
+    <link href="https://tiktok.com/@dsshushu/video/7225604430064897286" rel="alternate"/>
+    <published>2023-04-24T13:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7225665982415555846</id>
+    <title>Done joined! </title>
+    <updated>2023-04-24T17:14:25+00:00</updated>
+    <content>Done joined! </content>
+    <link href="https://tiktok.com/@dsshushu/video/7225665982415555846" rel="alternate"/>
+    <published>2023-04-24T17:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7233795514238569735</id>
+    <title>No Title</title>
+    <updated>2023-05-16T15:01:09+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@dsshushu/video/7233795514238569735" rel="alternate"/>
+    <published>2023-05-16T15:01:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7237950208552766728</id>
+    <title>Bakal isteri mithali 2023</title>
+    <updated>2023-05-27T19:43:32+00:00</updated>
+    <content>Bakal isteri mithali 2023</content>
+    <link href="https://tiktok.com/@dsshushu/video/7237950208552766728" rel="alternate"/>
+    <published>2023-05-27T19:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7258731568800271623</id>
+    <title>Dear friends im sorry. I already tried my best.</title>
+    <updated>2023-07-22T19:46:07+00:00</updated>
+    <content>Dear friends im sorry. I already tried my best.</content>
+    <link href="https://tiktok.com/@dsshushu/video/7258731568800271623" rel="alternate"/>
+    <published>2023-07-22T19:46:07+00:00</published>
+  </entry>
 </feed>
