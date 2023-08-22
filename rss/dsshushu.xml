@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-08-22T15:38:43+00:00</updated>
+  <updated>2023-08-17T10:02:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7195455087773289754</id>
+    <title>Clearkan 2022 draft</title>
+    <updated>2023-02-02T07:20:48+00:00</updated>
+    <content>Clearkan 2022 draft</content>
+    <link href="https://tiktok.com/@dsshushu/video/7195455087773289754" rel="alternate"/>
+    <published>2023-02-02T07:20:48+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7206950880325766427</id>
     <title>Ye saya membaca bukan menyanyi</title>
@@ -83,13 +91,5 @@
     <content>Scorpio thingz</content>
     <link href="https://tiktok.com/@dsshushu/video/7268229534649027847" rel="alternate"/>
     <published>2023-08-17T10:02:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7270171539851578631</id>
-    <title>Walaupun lirik salah, lagi setahun ibu dah boleh join anak dia pergi gig 😂</title>
-    <updated>2023-08-22T15:38:43+00:00</updated>
-    <content>Walaupun lirik salah, lagi setahun ibu dah boleh join anak dia pergi gig 😂</content>
-    <link href="https://tiktok.com/@dsshushu/video/7270171539851578631" rel="alternate"/>
-    <published>2023-08-22T15:38:43+00:00</published>
   </entry>
 </feed>
