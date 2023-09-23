@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dsshushu</id>
   <title>dsshushu TikTok</title>
-  <updated>2023-09-23T10:40:52+00:00</updated>
+  <updated>2023-09-17T10:42:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dsshushu</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dsshushu/video/7220108960345509126</id>
+    <title>Tipu je. </title>
+    <updated>2023-04-09T17:50:20+00:00</updated>
+    <content>Tipu je. </content>
+    <link href="https://tiktok.com/@dsshushu/video/7220108960345509126" rel="alternate"/>
+    <published>2023-04-09T17:50:20+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dsshushu/video/7224818713701223685</id>
     <title>Mat ri ye</title>
@@ -83,13 +91,5 @@
     <content>Kau mahu cari yang BAGAIMANA? </content>
     <link href="https://tiktok.com/@dsshushu/video/7279743391741644050" rel="alternate"/>
     <published>2023-09-17T10:42:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dsshushu/video/7281969509731159314</id>
-    <title>No Title</title>
-    <updated>2023-09-23T10:40:52+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@dsshushu/video/7281969509731159314" rel="alternate"/>
-    <published>2023-09-23T10:40:52+00:00</published>
   </entry>
 </feed>
