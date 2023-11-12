@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-11-10T12:47:51+00:00</updated>
+  <updated>2023-11-12T09:45:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7258977599253236994</id>
-    <title>With bestie @Beth.tbish  🥰🥰 #trending #tiktoksingapore #dancechallenge #bestie #bestiegoals #changi #changiairport #jewel </title>
-    <updated>2023-07-23T11:40:31+00:00</updated>
-    <content>With bestie @Beth.tbish  🥰🥰 #trending #tiktoksingapore #dancechallenge #bestie #bestiegoals #changi #changiairport #jewel </content>
-    <link href="https://tiktok.com/@chiayeechew/video/7258977599253236994" rel="alternate"/>
-    <published>2023-07-23T11:40:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7262689129962425618</id>
     <title>Feeling “Barbie” today~ 🥰 #imabarbiegirl #barbiegirl #barbiemovie #barbie #tiktoksingapore #barbieoutfit </title>
@@ -91,5 +83,13 @@
     <content>Have you tried this before? 😅#bonesetting #bonesettingsg #singapore #backpain </content>
     <link href="https://tiktok.com/@chiayeechew/video/7299814315241131265" rel="alternate"/>
     <published>2023-11-10T12:47:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7300509446726307074</id>
+    <title>Have you ever tried vegetarian fine dining? #CapCut #vegetarian #vegetarianfinedining #finedinesg #orchardcentral #placetoeatsg </title>
+    <updated>2023-11-12T09:45:19+00:00</updated>
+    <content>Have you ever tried vegetarian fine dining? #CapCut #vegetarian #vegetarianfinedining #finedinesg #orchardcentral #placetoeatsg </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7300509446726307074" rel="alternate"/>
+    <published>2023-11-12T09:45:19+00:00</published>
   </entry>
 </feed>
