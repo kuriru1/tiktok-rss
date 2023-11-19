@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@chiayeechew</id>
   <title>chiayeechew TikTok</title>
-  <updated>2023-11-18T13:35:15+00:00</updated>
+  <updated>2023-11-14T13:31:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from chiayeechew</subtitle>
+  <entry>
+    <id>https://tiktok.com/@chiayeechew/video/7263737244232568082</id>
+    <title>How are you guys today?  ❤️ #imabarbiegirl #barbiegirl #tiktoksingapore #trending #dancechallenge </title>
+    <updated>2023-08-05T07:30:23+00:00</updated>
+    <content>How are you guys today?  ❤️ #imabarbiegirl #barbiegirl #tiktoksingapore #trending #dancechallenge </content>
+    <link href="https://tiktok.com/@chiayeechew/video/7263737244232568082" rel="alternate"/>
+    <published>2023-08-05T07:30:23+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@chiayeechew/video/7267544929826508034</id>
     <title>Sorry guys, been busy these days, hope you guys are well and happy :) #สปีดสโลว์ #สโลว์สมูท #tiktoksingapore #trending </title>
@@ -83,13 +91,5 @@
     <content>🤍🤍 #tiktoksingapore #tiktokmalaysia #dancechallenge #cheongsam #airspace </content>
     <link href="https://tiktok.com/@chiayeechew/video/7301309964780424449" rel="alternate"/>
     <published>2023-11-14T13:31:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@chiayeechew/video/7302795202400488706</id>
-    <title>No Title</title>
-    <updated>2023-11-18T13:35:15+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@chiayeechew/video/7302795202400488706" rel="alternate"/>
-    <published>2023-11-18T13:35:15+00:00</published>
   </entry>
 </feed>
