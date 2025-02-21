@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>dsshushu TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/dsshushu.xml</link>
+    <description>OK Boomer, all the latest TikToks from dsshushu</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/dsshushu.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>dsshushu TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/dsshushu.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2024 01:36:44 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@dsshushu/video/7191920451088551194</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/dsshushu/screenshot_oAVGbAnz4qOD0eV2jg5JWBPCQIjdBGeQOAXtDL.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@dsshushu/video/7191920451088551194</guid>
+      <pubDate>Mon, 23 Jan 2023 18:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Selamat ulang tahun buat diri yang sentiasa kuat dan pasti akan terus kuat. Semoga semuanya seperti yang dipinta. </title>
+      <link>https://tiktok.com/@dsshushu/video/7299130009229249810</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/dsshushu/screenshot_6ac5c78d31e248f79f7dead771d64588~tplv-photomode-image.jpeg.jpg" / &gt; Selamat ulang tahun buat diri yang sentiasa kuat dan pasti akan terus kuat. Semoga semuanya seperti yang dipinta. </description>
+      <guid isPermaLink="false">https://tiktok.com/@dsshushu/video/7299130009229249810</guid>
+      <pubDate>Wed, 08 Nov 2023 16:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>:)</title>
+      <link>https://tiktok.com/@dsshushu/video/7369009934886915349</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/dsshushu/screenshot_32be64acbf9244e696074d3ce59ed9bb_1715731368.jpg" / &gt; :)</description>
+      <guid isPermaLink="false">https://tiktok.com/@dsshushu/video/7369009934886915349</guid>
+      <pubDate>Wed, 15 May 2024 00:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>One take, janji join the trend 😂</title>
+      <link>https://tiktok.com/@dsshushu/video/7452528416236047634</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/dsshushu/screenshot_owbIUQZugAH2BRjlRFfXLnDBjObfAEEzlVQDBZ.jpg" / &gt; One take, janji join the trend 😂</description>
+      <guid isPermaLink="false">https://tiktok.com/@dsshushu/video/7452528416236047634</guid>
+      <pubDate>Thu, 26 Dec 2024 01:36:44 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
